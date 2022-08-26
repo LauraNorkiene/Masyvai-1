@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(to left, #683c8e, #a56c9c);
+    overflow-x: hidden;
+}
+
+.button {
+    background-color: #c39dbe;
+    width: 90px;
+    height: 40px;
+    border-radius: 85px;
+}
+
+
+.rezultatas {
+
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    height: auto;
+    border: 3px solid;
+    border-radius: 85px;
+    padding: 10px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.atsakymai {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
